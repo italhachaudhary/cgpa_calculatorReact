@@ -128,8 +128,7 @@ export default function Cgpa() {
         <h2>Key Points</h2>
         <h5>This CGPA calculator is made up with ReactJS and Bootstrap 5.</h5>
         <p>
-          1- CGPA is the average of grade points obtained in all the subjects,
-          excluding the 6th additional subject.
+          1- CGPA is the average of grade points obtained in all the subjects.
         </p>
         <p>
           2- CGPA is calculated by dividing the sum of grade points in a given
