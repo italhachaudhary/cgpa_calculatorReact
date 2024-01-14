@@ -122,7 +122,7 @@ export default function Cgpa() {
         <button className="btn btn-primary btn-center" onClick={calculateCgpa}>
           Calculate CGPA
         </button>
-        <h3>Your CGPA is {cgpa.toFixed(3)}</h3>
+        <h3 className="mt-2">Your CGPA is {cgpa.toFixed(3)}</h3>
       </div>
       <div>
         <h2>Key Points</h2>
