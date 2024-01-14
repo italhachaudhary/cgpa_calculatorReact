@@ -126,7 +126,7 @@ export default function Cgpa() {
       </div>
       <div>
         <h2>Key Points</h2>
-        <p>this CGPA calculator is made up with ReactJS and Bootstrap 5</p>
+        <h5>This CGPA calculator is made up with ReactJS and Bootstrap 5.</h5>
         <p>
           1- CGPA is the average of grade points obtained in all the subjects,
           excluding the 6th additional subject.
@@ -137,10 +137,15 @@ export default function Cgpa() {
           period.
         </p>
         <p>
-          3- CGPA = Sum of (Grade Points × Credit Hours) / Sum of Credit Hours
+          3- CGPA = Sum of (Grade Points × Credit Hours) / Sum of Credit Hours.
         </p>
         <p>4- If the subjects are 5 then add 0 in the 6th subject.</p>
-        <a href="http://italha.cpm" className="">
+        <a
+          href="https://github.com/italhachaudhary/cgpa_calculatorReact"
+          className="btn btn-secondary"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           5- Source Code
         </a>
       </div>
